@@ -1,3 +1,5 @@
+/* Credit to Madison Freeman (https://github.com/madison-freeman) */
+
 import java.util.ArrayList;
 import java.util.Set;
 import java.util.HashSet;
@@ -43,6 +45,6 @@ public class CompliantNode implements Node {
 /* There is an error with the automatic grader. 
 Error: /GRADEROOT/src/assignment2/runscript.sh: line 15:   104 Killed
 The Professors are aware of this problem, but the graduate assistants who built the grader 
-have long since graduated from Princeton.Therefore it is necessary to clean your sets 
+have long since graduated from Princeton. Therefore it is necessary to clean your sets 
 on every loop of the algorithm. Within the loop, sets begin to grow too large so 
 it is sufficient to only use mariginal Txs so that sets do not become too large. */
